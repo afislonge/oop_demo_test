@@ -1,0 +1,7 @@
+C:\VGG\projects\algo\OOP_Demo\OOP_Demo\bin\Debug\OOP_Demo.exe.config
+C:\VGG\projects\algo\OOP_Demo\OOP_Demo\bin\Debug\OOP_Demo.exe
+C:\VGG\projects\algo\OOP_Demo\OOP_Demo\bin\Debug\OOP_Demo.pdb
+C:\VGG\projects\algo\OOP_Demo\OOP_Demo\obj\Debug\OOP_Demo.csprojAssemblyReference.cache
+C:\VGG\projects\algo\OOP_Demo\OOP_Demo\obj\Debug\OOP_Demo.csproj.CoreCompileInputs.cache
+C:\VGG\projects\algo\OOP_Demo\OOP_Demo\obj\Debug\OOP_Demo.exe
+C:\VGG\projects\algo\OOP_Demo\OOP_Demo\obj\Debug\OOP_Demo.pdb
